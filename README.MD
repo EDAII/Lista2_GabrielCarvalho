@@ -1,6 +1,6 @@
 # Lista 2 - Algoritmos de Ordenação O(n²)
 
-Aplicação que utiliza os algoritmos de ordenação para ordernas as matérias da UnB, por nome ou código da disciplina.
+Aplicação que utiliza os algoritmos de ordenação para ordernar as matérias da UnB, por nome ou código da disciplina.
 
 ## Algoritmos Utilizados:
 
